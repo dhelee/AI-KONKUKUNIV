@@ -1,5 +1,7 @@
-#README
-해당 폴더에는 직접 참여한 두 개 프로젝트의 결과발표자료와 학사 졸업 논문을 담았습니다. 프로젝트의 자세한 구조 및 코드는 https://github.com/dhelee 에서 확인하실 수 있습니다.
+
+해당 폴더에는 직접 참여한 두 개 프로젝트의 결과발표자료와 학사 졸업 논문을 담았습니다.  
+프로젝트의 자세한 구조 및 코드는 https://github.com/dhelee 에서 확인하실 수 있습니다.
+
 ## 외부 프로젝트 CMON(CNN based online class participation MONitoring system)
 - 한국데이터산업진흥원 주관 [2020 빅데이터 청년인재 일자리 연계 사업]의 고려대학교 과정 수료 프로젝트
 - Convolutional Neural Network를 이용한 이미지 분석 기반의 실시간 온라인 수업 학습자 수업 참여도 모니터링 시스템
